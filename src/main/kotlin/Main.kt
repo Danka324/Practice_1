@@ -1,4 +1,4 @@
-fun main() {
+fun main(args: Array<String>) {
     // Задание 1
 
     /* Объявили константу exercises со значением 13 и
